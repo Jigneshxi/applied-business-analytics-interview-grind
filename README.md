@@ -30,8 +30,8 @@ This repository contains the complete research, technical problem solutions, and
 ```
 d:/Jignesh/AB_DS&AAI/ABA/
 ├── README.md                            # Master repository documentation & curriculum guide (This file)
-├── 02_ALL_80_QUESTIONS_ANSWERED.md      # Complete technical question bank answering all 80 questions with math & business context
-└── 03_FINAL_SUBMISSION_50_QUESTIONS.md  # Clean Markdown copy of the exact 50 solutions submitted on Google Docs
+├── FINAL_SUBMISSION_50_QUESTIONS.md     # Clean Markdown copy of the exact 50 solutions submitted on Google Docs
+└── ALL_80_QUESTIONS_ANSWERED.md         # Complete technical question bank answering all 80 questions with math & business context
 ```
 
 > **Note on Submission Document:** As per project workflow, all 50 written answers and the live video explanation URL are maintained directly in the **[Live Google Docs Submission](https://docs.google.com/document/d/1M5nEE2wK64ewPO-2XwWj4F3Xf9Am-7b9Iho740VOGSA/edit?usp=sharing)**.
